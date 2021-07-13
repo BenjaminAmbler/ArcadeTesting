@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SoapyCoyote
+- 👋 Hi, I’m @BenjaminAmbler
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on VHDL
 - 📫 How to reach me benjaminambler@gmail.com
 
 <!---
